@@ -5,7 +5,7 @@
 
 I'm always learning and aiming to have public repositories, I've mostly been learning about SDL2 and the intricacies of making game engines and renderers, hopefully you can find some interesting things here, and also, feel free to fork, comment, make a pull request, you name it!
 
-[My Website](http://gueepo.me/)
+[personal website](https://gueepo.me/) [twitter](https://twitter.com/guilhermepo2) [itch.io](https://gueepo.itch.io/)
 
 <!--
 **guilhermepo2/guilhermepo2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
