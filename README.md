@@ -1,12 +1,11 @@
-### Hello 👋
+|  |  |  |
+|--|--|--|
+| ![Portait photo](https://gueepo.me/assets/img/me3-3-2.png) | &nbsp;&nbsp; | Hello There! <br/><br/>I'm Guilherme, currently a Software Engineer working in the games industry! <br/><br/>I'm a game programmer that sometimes will dabble with design/art/music on my free time. Recently, I started talking about small side projects in video format on [YouTube](https://www.youtube.com/c/gueepotv)! I make videos about game prototypes, about trying new technologies, as well as occasional development of my own game engine, [gueepo2D](https://github.com/guilhermepo2/gueepo2D).|
 
-My name is Guilherme and I'm currently working as a Software Engineer in the games industry!
 
 I'm always learning and aiming to have public repositories, I've mostly been learning about SDL2 and the intricacies of making game engines and renderers, hopefully you can find some interesting things here, and also, feel free to fork, comment, make a pull request, you name it!
 
 [My Website](http://gueepo.me/)
-
-he/him
 
 <!--
 **guilhermepo2/guilhermepo2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
