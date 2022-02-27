@@ -7,6 +7,8 @@ I'm always learning and aiming to have public repositories, I've mostly been lea
 
 [personal website](https://gueepo.me/) [twitter](https://twitter.com/guilhermepo2) [itch.io](https://gueepo.itch.io/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermepo2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **guilhermepo2/guilhermepo2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
