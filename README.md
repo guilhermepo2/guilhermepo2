@@ -1,6 +1,6 @@
- :shipit: I write code sometimes. And sometimes I talk about it on [YouTube](https://www.youtube.com/c/gueepotv)!  :shipit:
+ :shipit: I write code sometimes!  :shipit:
 
-working on [gueepo2D](https://github.com/guilhermepo2/gueepo2D), a game library that I'm using to build my own game engine to make tactics games, maybe some day I will even make an actual videogame that is playable somewhere!
+I used to work on my own little game library called [gueepo2D](https://github.com/guilhermepo2/gueepo2D) - maybe some day I will get back to that. Currently working on little tactics videogames using Godot :D
 
 - :house_with_garden: you can find more on my [personal website](https://gueepo.me/) and read my more well-structured ramblings;
 - :pencil: you can also read game development and game engine development ramblings at my [blog](https://gueepo.blog)
